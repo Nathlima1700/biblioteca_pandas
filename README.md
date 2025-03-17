@@ -6,12 +6,11 @@ Bem-vindo(a) ao meu portfólio! Aqui você encontrará projetos de análise de d
 
 ##  biblioteca_pandas
 
-### 1️⃣ Análise de Dados de Vendas  
+### 1️⃣ Predição de Preços de Imóveis
+📌 **Descrição:** Analisando custo beneficios na escolha de um imóvel.
+
+### 2️⃣ Análise de Dados de Vendas 
 📌 **Descrição:** Estudo sobre padrões de vendas de uma loja de varejo online.  
-
-### 2️⃣ Predição de Preços de Imóveis  
-📌 **Descrição:** Uso de Machine Learning para prever preços de imóveis.  
-
 
 ---
 
