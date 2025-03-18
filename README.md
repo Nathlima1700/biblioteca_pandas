@@ -12,7 +12,7 @@ Bem-vindo(a) ao meu portfólio! Aqui você encontrará projetos de análise de d
 ### 2️⃣ Análise de Dados de Vendas 
 📌 **Descrição:** Estudo sobre padrões de vendas de uma loja de varejo online.  
 
-### 3️⃣ Modelo de Machie learning
+### 3️⃣ Modelo de Machine learning
 📌 **Descrição:** Previsão de preços de imóveis com regressão linear. 
 
 ---
